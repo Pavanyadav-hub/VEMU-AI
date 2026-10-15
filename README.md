@@ -1,4 +1,4 @@
-# VEMU AI — Full Windows Assistant (Stages 1–5)
+# VEMU AI — Full Windows Assistant
 
 VEMU is a local Windows voice assistant starter project. This repository combines the core assistant, optional AI advice, Gmail/Outlook connectors, WhatsApp Web message preparation, and a simple scheduled daily briefing.
 
